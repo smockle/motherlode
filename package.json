@@ -21,7 +21,7 @@
   "homepage": "https://github.com/smockle/motherlode#readme",
   "devDependencies": {
     "babel": "^5.8.23",
-    "babel-runtime": "^5.8.25",
+    "babel-runtime": "^6.0.8",
     "chai": "^3.3.0",
     "codeclimate-test-reporter": "github:smockle/javascript-test-reporter",
     "coveralls": "^2.11.4",
